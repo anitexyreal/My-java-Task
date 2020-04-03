@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorYellow">#F09C1A</color>
+    <color name="colorOrange">#FC082D</color>
+    <color name="color_end">#fca903</color>
+    <color name="colorPink">#D81B60</color>
+    <color name="Pink">#F3C0D3</color>
+    <color name="colorBlue">#3e80c2</color>
+    <color name="colorGray">#a9a9a9</color>
+    <color name="grayGreen">#267a4c</color>
+    <color name="seat_button">#FFE0C6</color>
+    <color name="white">#ffffff</color>
+    <color name="light_green">#A9F0E0</color>
+    <color name="milkWhite">#f2f2f2</color>
+</resources>
